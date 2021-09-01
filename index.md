@@ -20,7 +20,7 @@ To help predict Covid-19 cases increasing rate. To find the correlation between 
 - Description: \
 The book introduces basic concepts and techniques for data mining in R, and it includes three case studies. 
 
-### Why am I interested in this book? 🙃
+## Why am I interested in this book? 🙃
 This book impressed me because it is a beginner-level book, but it includes significant concepts for data mining. The author combines theory with examples to help readers better   understand the concepts. Moreover, data mining is a vital process in data analytics. Therefore, I would recommend this book to people who are interested in data mining.
 
 

@@ -17,23 +17,5 @@ Here we go. Let's discover the world 🗺️ ~
   This book impressed me because it is a beginner-level book, but it includes significant concepts for data mining. The author combines theory with examples to help readers better     understand the concepts. Moreover, data mining is a vital process in data analytics. Therefore, I would recommend this book to people who are interested in data mining.
 
 
-```markdown
-Syntax highlighted code block
-
-# Dateset
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 
 

@@ -1,17 +1,26 @@
-## Welcome to GitHub Pages
+# Welcome to Jingfei's World 😎
 
-You can use the [editor on GitHub](https://github.com/JFZzzzzz9048/JingfeiZhang.Github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Here we go. Let's discover the world 🗺️ ~
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Dataset:
+1. Name: Covid-19 
+2. URL: https://datahub.io/core/covid-19/r/1.html 
+3. Description: The above dataset includes global key countries' total Covid-19 cases update by every single day, and the date range is from 2020/01/22 to the present. 
+4. Potential Applications: To help predict Covid-19 cases increasing rate. To find the correlation between GDP and Covid-19 cases. To help predict the ending of the Covid-19.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Book 
+1. Name: R and Data Mining: Examples and Case Studies
+2. URL: https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf 
+3. Description: The book introduces basic concepts and techniques for data mining in R, and it includes three case studies. 
+
+  This book impressed me because it is a beginner-level book, but it includes significant concepts for data mining. The author combines theory with examples to help readers better     understand the concepts. Moreover, data mining is a vital process in data analytics. Therefore, I would recommend this book to people who are interested in data mining.
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
+# Dateset
 ## Header 2
 ### Header 3
 
@@ -26,12 +35,5 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JFZzzzzz9048/JingfeiZhang.Github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

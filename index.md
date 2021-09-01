@@ -3,21 +3,21 @@
 Here we go. Let's discover the world 🗺️ ~
 
 ## Dataset: Covid-19 
-### URL: https://datahub.io/core/covid-19/r/1.html 
+- URL: https://datahub.io/core/covid-19/r/1.html 
 
 
-### Description: 
+- Description: \
 The above dataset includes global key countries' total Covid-19 cases update by every single day, and the date range is from 2020/01/22 to the present. 
  
-### Potential Applications: 
+- Potential Applications: \
 To help predict Covid-19 cases increasing rate. To find the correlation between GDP and Covid-19 cases. To help predict the ending of the Covid-19.
 
 
 ## Book: R and Data Mining: Examples and Case Studies
-### Author: Yanchang Zhao
-### Publication Date: April 26, 2013
-### URL: https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf 
-### Description: 
+- Author: Yanchang Zhao
+- Publication Date: April 26, 2013
+- URL: https://cran.r-project.org/doc/contrib/Zhao_R_and_data_mining.pdf 
+- Description: \
 The book introduces basic concepts and techniques for data mining in R, and it includes three case studies. 
 
 ### Why am I interested in this book? 🙃
